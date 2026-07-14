@@ -58,6 +58,20 @@ Un membre peut indiquer sa qualité de membre à titre personnel. Il ne peut eng
 
 Les désaccords exprimés à titre personnel ne doivent pas être attribués à l’association.
 
+## Article 6 bis — Espace numérique de collaboration
+
+L’association maintient en permanence, sous réserve des interruptions nécessaires à sa maintenance ou à sa sécurité, un espace numérique permettant à ses membres, bénévoles et autres participants de collaborer et d’échanger des messages afin de contribuer à son objet et à ses activités.
+
+L’outil initial est une instance Mattermost dédiée. Le Conseil peut lui substituer un autre outil s’il en informe les utilisateurs et organise une continuité raisonnable du service, des accès et des informations utiles.
+
+Chaque membre reçoit avec son message de bienvenue une invitation personnelle à rejoindre cet espace, les indications nécessaires pour y accéder et les règles qui s’y appliquent. La participation est facultative. Des personnes non membres, notamment des bénévoles ou partenaires contribuant aux activités, peuvent également y être admises. Cet accès ne leur confère ni la qualité de membre ni les droits politiques qui y sont attachés.
+
+Les organes et instances internes, ainsi que leurs éventuelles sous-instances, commissions, groupes de travail, groupes territoriaux et établissements, utilisent par principe ce même espace comme canal commun de référence pour leurs échanges et leur coordination. Cette pratique vise à faciliter la circulation de l’information et l’implication des bénévoles entre les différentes activités. Le Conseil peut autoriser une exception lorsque la confidentialité, la protection des personnes ou des données, l’accessibilité ou une contrainte technique le justifie. Les informations utiles qui ne sont pas confidentielles sont alors reportées dans l’espace commun.
+
+Les règles de comportement de l’article 7 et la charte adoptée par le Conseil s’appliquent à cet espace. Le Conseil peut en déléguer la modération. En cas de comportement perturbateur, les modérateurs rappellent les règles applicables et demandent à la personne concernée de modifier précisément son comportement. Ils peuvent prendre une mesure conservatoire immédiate lorsque la sécurité des personnes, des données ou du service l’exige.
+
+Si les perturbations sont graves ou répétées et que la personne ne répond pas de manière adéquate à ces demandes, le Conseil peut, par une décision motivée et proportionnée prise dans les conditions des articles 8 et 9, limiter, suspendre ou retirer son accès. Le retrait de l’espace numérique ne met pas fin, à lui seul, à la qualité de membre et ne peut priver un membre des informations ou moyens nécessaires à l’exercice de ses droits statutaires, qui lui sont alors fournis par une autre voie appropriée.
+
 ---
 
 # TITRE II — RESPECT DES PERSONNES ET DISCIPLINE
