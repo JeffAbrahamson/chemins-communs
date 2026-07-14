@@ -117,7 +117,7 @@ L’association est composée de personnes physiques et de personnes morales.
 
 Peut devenir membre toute personne qui adhère à l’objet et aux présents statuts, acquitte la cotisation lorsqu’elle est due et satisfait aux modalités d’adhésion prévues par le règlement intérieur.
 
-L’admission est acquise dès que ces conditions sont remplies. Le Conseil d’administration peut toutefois la refuser ou la retirer dans le délai prévu par le règlement intérieur lorsque des faits précis et objectifs établissent une incompatibilité manifeste avec l’objet, les principes ou la sécurité de l’association. Sa décision est motivée et peut faire l’objet d’un recours.
+L’admission est acquise dès que ces conditions sont remplies. Le Conseil d’administration peut toutefois la refuser ou la retirer, selon la procédure et dans les délais prévus par le règlement intérieur, lorsque des faits précis et objectifs établissent une incompatibilité manifeste avec l’objet, les principes ou la sécurité de l’association. Sa décision est motivée et peut faire l’objet d’un recours.
 
 Toute personne morale membre désigne une personne physique pour la représenter auprès de l’association et l’informe de tout changement de représentant. Elle ne dispose que d’une voix et son représentant ne peut agir qu’en son nom. Ce représentant peut également être membre de l’association en son nom propre.
 
@@ -173,7 +173,7 @@ Elle est l’organe souverain pour les décisions que les présents statuts lui 
 * donne quitus au Conseil d’administration si elle le juge opportun, sans que ce quitus puisse couvrir des faits dissimulés ;
 * adopte les orientations pluriannuelles ;
 * fixe les cotisations ;
-* ratifie les modifications du règlement intérieur qui touchent aux droits politiques, aux élections ou aux sanctions ;
+* ratifie les modifications du règlement intérieur qui touchent aux droits politiques, aux élections, aux sanctions ou aux recours ;
 * modifie les statuts ;
 * décide de la fusion, de la scission, de l’apport partiel d’actif ou de la dissolution.
 
@@ -205,7 +205,7 @@ Le règlement intérieur précise les délais, les conditions de recevabilité, 
 
 L’Assemblée peut se tenir en présence, à distance ou sous une forme hybride permettant l’identification des participants, la sincérité des débats et la sécurité du scrutin.
 
-Les votes sont exprimés par voie électronique, pendant une période qui peut commencer avant la réunion. Un dispositif d’accès est proposé pendant la réunion à toute personne qui ne dispose pas d’un équipement approprié. Tout membre disposant du droit de vote doit pouvoir voter personnellement sans être contraint de donner procuration.
+Les votes sont exprimés par voie électronique, pendant une période qui peut commencer avant la réunion. Toutefois, une motion de procédure survenant en cours de réunion et n’exigeant pas le secret peut être mise aux voix par tout moyen fiable permettant à l’ensemble des participants, présents ou à distance, de prendre part au vote. Un dispositif d’accès est proposé pendant la réunion à toute personne qui ne dispose pas d’un équipement approprié. Tout membre disposant du droit de vote doit pouvoir voter personnellement sans être contraint de donner procuration.
 
 Une personne physique ne peut exprimer plus de deux voix à quelque titre que ce soit. Elle peut cumuler sa voix personnelle avec, au choix, la voix d’une personne morale qu’elle représente ou une procuration, mais ne peut cumuler ces trois qualités. Le règlement intérieur organise ces modalités, l’assistance au vote et les garanties du scrutin électronique, notamment le secret lorsqu’il est requis.
 
@@ -215,15 +215,17 @@ Pour les décisions ordinaires, l’Assemblée délibère valablement si au moin
 
 Pour une modification des statuts, une fusion, une scission, un apport partiel d’actif ou une dissolution, le quorum est de vingt pour cent des membres disposant du droit de vote, sans pouvoir être inférieur à vingt ni supérieur à deux cents personnes. Sur seconde convocation, il est de dix pour cent, sans pouvoir être inférieur à dix ni supérieur à cent personnes.
 
+Lorsqu’un plancher exprimé en nombre de personnes excède la moitié du nombre des membres disposant du droit de vote, il est ramené, pour l’Assemblée concernée, à cette moitié arrondie à l’entier supérieur.
+
 Les décisions ordinaires sont prises à la majorité simple des suffrages exprimés.
 
 Les modifications statutaires sont adoptées à la majorité des deux tiers des suffrages exprimés. Toute modification des articles 4, 8, 9, 12, 15, 19, 33, 37, 38, 40 ou du présent alinéa requiert une majorité des trois quarts des suffrages exprimés.
 
 La fusion, la scission, l’apport partiel d’actif et la dissolution sont décidés à la majorité des trois quarts des suffrages exprimés.
 
-Pour chaque résolution autre qu’une élection, le bulletin permet de voter « oui », « non-opposition », « abstention » ou « non ». Le vote de non-opposition permet à la décision de prendre effet sans exprimer un soutien. Seuls les votes « oui » et « non » sont des suffrages exprimés pour le calcul de la majorité.
+Pour chaque résolution autre qu’une élection, le bulletin permet de voter « oui », « abstention » ou « non ». Seuls les votes « oui » et « non » sont des suffrages exprimés pour le calcul de la majorité.
 
-Les votes de non-opposition, les abstentions, les votes blancs et les votes nuls sont comptabilisés pour le quorum et publiés dans le résultat détaillé.
+Les abstentions, les votes blancs et les votes nuls sont comptabilisés pour le quorum et publiés dans le résultat détaillé.
 
 ## Article 20 — Élections et révocation des administrateurs
 
@@ -372,7 +374,7 @@ Elles sont exclusivement affectées à la poursuite de l’objet. Aucun excéden
 
 ## Article 34 — Exercice et comptes
 
-L’exercice comptable court du 1er janvier au 31 décembre. Par exception, le premier exercice commence à la date de déclaration de l’association et se termine le 31 décembre suivant.
+L’exercice comptable court du 1er janvier au 31 décembre. Par exception, le premier exercice commence à la date de déclaration de l’association et se termine le 31 décembre suivant. Si la déclaration intervient au cours du second semestre, le Conseil d’administration peut prolonger ce premier exercice jusqu’au 31 décembre de l’année suivante.
 
 Il est tenu une comptabilité régulière et sincère. Le Conseil arrête les comptes et les soumet à l’Assemblée générale avec le rapport financier et le budget prévisionnel.
 
@@ -439,6 +441,8 @@ L’Assemblée détermine le sort des archives et des données dans le respect d
 ## Article 41 — Première administration
 
 Par exception aux articles 12 et 22, les personnes ayant adopté les présents statuts sont immédiatement électrices lors de l’Assemblée constitutive. Celles d’entre elles qui sont des personnes physiques sont immédiatement éligibles.
+
+Les délais d’ancienneté prévus à l’article 12 ne peuvent excéder la durée écoulée depuis la déclaration de l’association.
 
 Le premier Conseil comprend de cinq à onze administrateurs. S’il compte moins de sept membres, il atteint l’effectif normal dans les conditions et le délai prévus à l’article 23.
 

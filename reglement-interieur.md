@@ -190,9 +190,9 @@ Dès l’ouverture du vote anticipé, le texte et les options publiés ne peuven
 
 Chaque membre disposant du droit de vote dispose d’une voix.
 
-Tous les votes de l’Assemblée sont recueillis par voie électronique. Pour les résolutions et candidatures publiées à l’avance, le scrutin ouvre au moins sept jours avant la réunion et ne clôt qu’après le débat correspondant, aux date et heure annoncées dans la convocation. L’électeur peut remplacer son vote jusqu’à la clôture ; seul son dernier vote est compté. Les seules questions qui ne peuvent être ouvertes à l’avance sont les motions de procédure nées pendant la réunion.
+Tous les votes de l’Assemblée sont recueillis par voie électronique. Pour les résolutions et candidatures publiées à l’avance, le scrutin ouvre au moins sept jours avant la réunion et ne clôt qu’après le débat correspondant, aux date et heure annoncées dans la convocation. L’électeur peut remplacer son vote jusqu’à la clôture ; seul son dernier vote est compté. Les seules questions qui ne peuvent être ouvertes à l’avance sont les motions de procédure nées pendant la réunion. Conformément à l’article 18 des statuts, une telle motion peut, lorsqu’elle n’exige pas le secret, être mise aux voix par tout moyen fiable ouvert à l’ensemble des participants.
 
-Sauf pour une élection, le bulletin propose « oui », « non-opposition », « abstention » et « non ». La non-opposition exprime des réserves tout en acceptant que la décision prenne effet ; comme l’abstention, elle n’entre pas dans le calcul de la majorité mais est comptabilisée et publiée.
+Sauf pour une élection, le bulletin propose « oui », « abstention » et « non ». L’abstention n’entre pas dans le calcul de la majorité mais est comptabilisée et publiée.
 
 Les élections, révocations, sanctions individuelles et toute décision concernant nominativement une personne ont lieu au scrutin secret. Un scrutin secret est également organisé à la demande d’au moins dix pour cent des votants présents au débat.
 
@@ -215,7 +215,7 @@ Une procuration identifie le mandant et le mandataire et vaut pour une seule Ass
 
 Les candidatures sont individuelles et reçues au moins dix jours avant la réunion et, en toute hypothèse, avant l’ouverture du scrutin. Elles sont publiées au fur et à mesure de leur recevabilité et au plus tard avant cette ouverture. Chaque candidat fournit une présentation de longueur comparable, expose ses motivations, ses compétences utiles, ses autres responsabilités pertinentes et ses éventuels conflits d’intérêts.
 
-Pour chaque candidature, le bulletin propose « oui », « non-opposition », « abstention » et « non ». Chaque électeur peut voter « oui » pour au plus autant de candidats qu’il y a de sièges à pourvoir, sans vote cumulatif. Sont élus les candidats ayant obtenu le plus grand nombre de votes « oui », sous réserve d’en avoir recueilli davantage que de votes « non ». Les votes de non-opposition et les abstentions sont publiés mais ne départagent pas les candidatures.
+Pour chaque candidature, le bulletin propose « oui », « abstention » et « non ». Chaque électeur peut voter « oui » pour au plus autant de candidats qu’il y a de sièges à pourvoir, sans vote cumulatif. Sont élus les candidats ayant obtenu le plus grand nombre de votes « oui », sous réserve d’en avoir recueilli davantage que de votes « non ». Les abstentions sont publiées mais ne départagent pas les candidatures.
 
 En cas d’égalité pour le dernier siège, un second tour départage les candidats concernés. Si l’égalité subsiste, le siège est attribué par tirage au sort public.
 
@@ -223,7 +223,7 @@ Lorsque le nombre de candidats est insuffisant, les sièges restant vacants sont
 
 ## Article 19 — Dépouillement, résultats et contestation
 
-La commission électorale vérifie le quorum avant le dépouillement des décisions. Les résultats indiquent, pour chaque vote, le nombre d’inscrits, de participants, de procurations, de votes blancs, nuls, « oui », « non-opposition », abstentions et « non ».
+La commission électorale vérifie le quorum avant le dépouillement des décisions. Les résultats indiquent, pour chaque vote, le nombre d’inscrits, de participants, de procurations, de votes blancs, nuls, « oui », abstentions et « non ».
 
 Une réclamation motivée est adressée à la commission dans les sept jours suivant la publication des résultats. Elle ne remet pas en cause la décision sauf si l’irrégularité a pu modifier le résultat ou porter une atteinte substantielle à la sincérité du scrutin.
 
@@ -289,7 +289,7 @@ Le Conseil fixe une politique de signature prévoyant des plafonds, une double a
 
 Chaque administrateur accepte explicitement son mandat, les devoirs qui s’y attachent et la politique de conflits d’intérêts.
 
-Tous les six mois, il présente synthétiquement ses contributions, responsabilités et disponibilités prévisibles. Cette démarche sert à répartir le travail et prévenir l’épuisement ; elle n’instaure pas une obligation de résultat individuel.
+Une fois par an, ou lorsque sa situation change sensiblement, il présente synthétiquement ses contributions, responsabilités et disponibilités prévisibles. Cette démarche sert à répartir le travail et prévenir l’épuisement ; elle n’instaure pas une obligation de résultat individuel.
 
 Le Conseil évalue annuellement son fonctionnement collectif, ses compétences, sa diversité, la qualité de l’information reçue, l’exécution de ses décisions et la préparation de sa relève. Une synthèse figure dans son rapport à l’Assemblée.
 
