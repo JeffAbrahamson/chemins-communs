@@ -1,16 +1,31 @@
-> Voici une première version complète, rédigée comme de véritables statuts et non comme un simple modèle Cerfa. J'ai volontairement adopté un style assez "constitutionnel", inspiré davantage des grandes ONG que des modèles préfectoraux. L'idée est que ces statuts puissent durer plusieurs décennies sans nécessiter de fréquentes modifications.
-
-> Il s'agit d'une V1 : je m'attends à ce qu'on itère ensuite sur chaque article.
+> Voici ce que je proposerais. J'ai essayé de rédiger non pas des statuts "administratifs", mais une **constitution** pour une organisation de plaidoyer. L'objectif est double :
+> 
+> * qu'ils soient juridiquement compatibles avec le droit des associations françaises ;
+> * qu'ils expriment une véritable philosophie de gouvernance, afin que, dans vingt ans, les personnes qui dirigeront Chemins Communs comprennent non seulement *ce qu'elles peuvent faire*, mais surtout *pourquoi l'association existe*.
+> 
+> Je pense que ce texte est volontairement plus ambitieux que les statuts habituels. Il servira sans doute davantage de document de travail que de version finale, mais je crois qu'il est plus facile de simplifier un bon texte que de faire grandir un texte trop minimaliste.
 
 ---
 
 ---
 
-# STATUTS DE L'ASSOCIATION « CHEMINS COMMUNS »
+# Projet de statuts de l'association **Chemins Communs**
 
-## TITRE I — DISPOSITIONS GÉNÉRALES
+## Préambule
 
-### Article 1 — Constitution
+La marche et le vélo sont des moyens de déplacement essentiels à une société plus sûre, plus saine, plus inclusive et plus respectueuse de l'environnement.
+
+Le développement des mobilités actives contribue à la préservation de l'environnement naturel et humain, à la santé publique, à la qualité de vie, à l'autonomie des personnes, à la réduction des émissions de gaz à effet de serre, à un meilleur partage de l'espace public et à une société plus équitable.
+
+Chemins Communs est créée afin de défendre durablement les intérêts des usagers des mobilités actives, de promouvoir des politiques publiques favorables à leur développement et de contribuer, par son expertise et son action citoyenne, à la transformation des territoires.
+
+Les présents statuts constituent le cadre démocratique permettant à l'association de poursuivre cette mission dans la durée. Ils organisent une gouvernance conciliant participation des membres, efficacité de l'action, continuité institutionnelle et indépendance.
+
+---
+
+# TITRE I — DISPOSITIONS GÉNÉRALES
+
+## Article 1 — Constitution
 
 Il est fondé entre les personnes physiques adhérant aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901.
 
@@ -20,116 +35,127 @@ Sa durée est illimitée.
 
 ---
 
-### Article 2 — Siège social
+## Article 2 — Siège social
 
-Le siège social est fixé par décision du Conseil d'administration.
+Le siège est fixé par décision du Conseil d'administration.
 
-Il peut être transféré en tout autre lieu sur décision du Conseil d'administration.
-
----
-
-## TITRE II — OBJET ET PRINCIPES
-
-### Article 3 — Objet
-
-L'association agit dans un but d'intérêt général.
-
-Elle contribue à la préservation et à l'amélioration de l'environnement naturel et humain par la promotion, la défense et le développement des mobilités actives.
-
-Par « mobilités actives », on entend notamment la marche, le vélo et tout mode de déplacement reposant principalement sur l'énergie humaine.
-
-L'association agit notamment afin de :
-
-* améliorer la sécurité des déplacements actifs ;
-* améliorer leur accessibilité pour toutes les personnes ;
-* favoriser la santé publique ;
-* améliorer la qualité de l'environnement et contribuer à la lutte contre le changement climatique ;
-* promouvoir un partage plus équilibré de l'espace public ;
-* favoriser une meilleure qualité de vie, l'inclusion sociale et l'autonomie des personnes ;
-* défendre les intérêts collectifs des usagers des mobilités actives auprès des pouvoirs publics et de toute personne concernée.
-
-L'association poursuit exclusivement un objet d'intérêt général et exerce ses activités de manière désintéressée.
+Le Conseil peut le transférer en tout autre lieu.
 
 ---
 
-### Article 4 — Moyens d'action
+# TITRE II — OBJET ET PRINCIPES FONDAMENTAUX
+
+## Article 3 — Objet
+
+L'association agit exclusivement dans un but d'intérêt général.
+
+Elle contribue à la préservation et à l'amélioration de l'environnement naturel et humain en favorisant le développement des mobilités actives, notamment la marche et le vélo.
+
+À cette fin, elle agit notamment pour :
+
+* améliorer les conditions matérielles, sociales, psychologiques et politiques de la pratique des mobilités actives ;
+* améliorer la sécurité, l'accessibilité et le confort des déplacements actifs ;
+* promouvoir des politiques publiques favorables aux mobilités actives ;
+* défendre les intérêts collectifs de leurs usagers ;
+* contribuer à la qualité de l'environnement, à la santé publique et à la lutte contre le changement climatique ;
+* promouvoir un urbanisme favorisant la proximité, l'autonomie et le partage équitable de l'espace public.
+
+L'association exerce ses activités de manière désintéressée.
+
+---
+
+## Article 4 — Moyens d'action
 
 Pour réaliser son objet, l'association peut notamment :
 
 * conduire des actions de plaidoyer ;
 * participer aux débats publics ;
-* publier des études, analyses ou recommandations ;
-* réaliser ou commander des travaux de recherche ;
-* organiser des campagnes d'information ou de sensibilisation ;
+* publier des analyses, études ou recommandations ;
+* produire ou diffuser des connaissances ;
 * participer aux concertations publiques ;
+* accompagner les collectivités, institutions, entreprises ou autres organisations ;
+* organiser des campagnes d'information ;
 * engager ou soutenir toute procédure administrative ou juridictionnelle compatible avec son objet ;
-* conseiller les collectivités, institutions, entreprises ou autres organisations ;
 * conclure des partenariats ;
-* exercer toute activité licite contribuant directement à son objet.
+* exercer toute activité licite contribuant directement à la réalisation de son objet.
 
-Cette énumération n'est pas limitative.
-
----
-
-### Article 5 — Activités accessoires
-
-L'association n'a pas pour objet principal l'organisation d'activités sportives, récréatives, culturelles, touristiques, commerciales ou de formation.
-
-Elle peut toutefois organiser de telles activités lorsqu'elles contribuent directement à la réalisation de son objet statutaire.
+Cette liste n'est pas limitative.
 
 ---
 
-### Article 6 — Indépendance
+## Article 5 — Activités accessoires
+
+L'association n'a pas pour objet principal :
+
+* l'organisation d'activités sportives ;
+* l'apprentissage de la pratique du vélo ou de la marche ;
+* l'organisation d'activités culturelles ou touristiques ;
+* la prestation de services commerciaux.
+
+Elle peut néanmoins organiser de telles activités lorsqu'elles constituent un moyen direct de réaliser son objet statutaire.
+
+---
+
+## Article 6 — Indépendance
 
 L'association est indépendante de tout parti politique, organisation religieuse, entreprise ou autorité publique.
 
-Elle demeure libre de coopérer avec toute personne physique ou morale lorsque cette coopération est compatible avec son objet et préserve son indépendance.
+Elle peut coopérer avec toute personne ou organisation lorsque cette coopération est compatible avec son objet, préserve son indépendance et respecte ses valeurs.
 
 ---
 
-### Article 7 — Interprétation des statuts
+## Article 7 — Principes de gouvernance
 
-Les présents statuts doivent être interprétés de manière à assurer la poursuite de l'objet d'intérêt général de l'association.
+L'association agit selon les principes suivants :
 
-Les organes de gouvernance exercent leurs compétences dans le respect de cette finalité, en conciliant démocratie, continuité de l'action, efficacité et indépendance.
+* poursuite de l'intérêt général ;
+* fonctionnement démocratique ;
+* indépendance ;
+* transparence ;
+* collégialité ;
+* recherche du consensus lorsque cela est possible ;
+* décisions fondées sur les connaissances disponibles et l'expertise ;
+* respect des personnes.
+
+Les présents statuts sont interprétés à la lumière de ces principes.
 
 ---
 
 # TITRE III — MEMBRES
 
-### Article 8 — Composition
+## Article 8 — Composition
 
 L'association est composée exclusivement de personnes physiques.
 
-Toute personne physique adhérant aux présents statuts peut devenir membre selon les modalités fixées par le Conseil d'administration.
+Toute personne adhérant aux présents statuts peut devenir membre selon les modalités définies par le Conseil d'administration.
 
 ---
 
-### Article 9 — Catégories de droits
+## Article 9 — Droits des membres
 
 Tout membre :
 
+* participe à la vie de l'association ;
 * reçoit les informations destinées aux adhérents ;
-* peut participer aux activités de l'association ;
-* peut contribuer aux travaux des commissions ou groupes de travail ;
-* peut présenter des propositions aux organes de l'association.
+* peut contribuer aux groupes de travail ;
+* peut proposer des projets, campagnes ou orientations.
 
-Le droit de vote est acquis après **six mois d'ancienneté continue**, sans interruption de la qualité de membre.
+Le droit de vote est acquis après six mois d'ancienneté continue en qualité de membre, sans interruption d'adhésion.
 
-L'éligibilité au Conseil d'administration est acquise après **douze mois d'ancienneté continue**, sans interruption de la qualité de membre.
+L'éligibilité au Conseil d'administration est acquise après douze mois d'ancienneté continue, sans interruption d'adhésion.
 
-Le membre doit être à jour de sa cotisation au jour de l'exercice de ces droits.
+Ces délais visent à favoriser une participation fondée sur un engagement durable et à préserver la stabilité démocratique de l'association.
 
 ---
 
-### Article 10 — Perte de la qualité de membre
+## Article 10 — Perte de la qualité de membre
 
 La qualité de membre se perd par :
 
-* la démission ;
-* le décès ;
-* le non-renouvellement de l'adhésion ;
-* la radiation prononcée pour motif grave dans les conditions prévues par le règlement intérieur.
+* démission ;
+* décès ;
+* non-renouvellement de l'adhésion ;
+* radiation pour motif grave dans les conditions prévues par le règlement intérieur.
 
 Toute interruption d'adhésion remet à zéro le calcul de l'ancienneté prévue à l'article 9.
 
@@ -137,37 +163,36 @@ Toute interruption d'adhésion remet à zéro le calcul de l'ancienneté prévue
 
 # TITRE IV — ASSEMBLÉE GÉNÉRALE
 
-### Article 11 — Compétences
+## Article 11 — Mission de l'Assemblée générale
 
-L'Assemblée générale est souveraine pour :
+L'Assemblée générale est l'organe souverain de définition des finalités de l'association.
 
-* modifier les statuts ;
-* élire et révoquer les administrateurs ;
-* approuver les comptes ;
-* approuver le budget ;
-* définir les grandes orientations stratégiques de l'association ;
-* décider de la dissolution ;
-* décider d'une fusion ou transformation.
+Elle :
 
-Les questions opérationnelles ne relèvent pas de l'Assemblée générale sauf disposition contraire des présents statuts.
+* élit et révoque les administrateurs ;
+* approuve les comptes ;
+* approuve le budget ;
+* adopte les grandes orientations stratégiques ;
+* modifie les statuts ;
+* décide de la fusion ou de la dissolution.
+
+Elle ne se prononce pas sur les choix opérationnels relevant du Conseil d'administration ou des personnes auxquelles celui-ci a délégué des responsabilités.
 
 ---
 
-### Article 12 — Initiative des membres
+## Article 12 — Initiative des membres
 
-Au moins vingt membres disposant du droit de vote peuvent proposer une résolution.
+Vingt membres disposant du droit de vote peuvent proposer une résolution.
 
-Cinq pour cent des membres disposant du droit de vote peuvent demander l'inscription d'une question à l'ordre du jour d'une Assemblée générale.
+Cinq pour cent des membres disposant du droit de vote peuvent demander l'inscription d'une question à l'ordre du jour.
 
-Dix pour cent des membres disposant du droit de vote peuvent demander la convocation d'une Assemblée générale extraordinaire.
-
-Les modalités de présentation sont précisées par le règlement intérieur.
+Dix pour cent peuvent demander la convocation d'une Assemblée générale extraordinaire.
 
 ---
 
 # TITRE V — CONSEIL D'ADMINISTRATION
 
-### Article 13 — Composition
+## Article 13 — Composition
 
 Le Conseil d'administration comprend de neuf à douze administrateurs.
 
@@ -175,89 +200,95 @@ Le nombre d'administrateurs en exercice ne peut être inférieur à trois.
 
 Les administrateurs sont élus pour deux ans.
 
-Le renouvellement est organisé de manière à assurer une continuité des mandats.
+Le renouvellement est organisé afin d'assurer la continuité du Conseil.
 
-Les administrateurs demeurent en fonction jusqu'à l'élection et à l'acceptation de leurs successeurs, dans la limite d'une prolongation maximale d'un an.
+Les administrateurs restent en fonction jusqu'à l'élection de leurs successeurs, dans la limite d'une prolongation maximale d'un an.
 
-En cas de vacance, le Conseil peut coopter un administrateur jusqu'à la prochaine Assemblée générale.
+Le Conseil peut pourvoir provisoirement aux vacances par cooptation jusqu'à la prochaine Assemblée générale.
 
 ---
 
-### Article 14 — Mission
+## Article 14 — Mission
 
 Le Conseil d'administration est responsable de la gouvernance de l'association.
 
-Il met en œuvre l'objet statutaire dans le cadre des orientations arrêtées par l'Assemblée générale.
+Il met en œuvre les finalités définies par l'Assemblée générale.
 
-Il détermine les moyens les plus appropriés pour atteindre ces objectifs.
+Il choisit les stratégies, priorités et moyens permettant de réaliser l'objet statutaire.
 
 Il est notamment compétent pour :
 
 * arrêter les priorités annuelles ;
-* adopter les positions publiques de l'association ;
-* représenter l'association entre les Assemblées générales ;
+* adopter les positions publiques ;
 * arrêter les partenariats ;
 * recruter et superviser les salariés ;
 * gérer les finances ;
-* déléguer tout ou partie de ses pouvoirs.
-
-Le Conseil choisit les moyens.
+* représenter l'association ;
+* déléguer les responsabilités opérationnelles.
 
 L'Assemblée générale définit les finalités.
 
+Le Conseil choisit les stratégies.
+
+Les responsables opérationnels déterminent les modalités de mise en œuvre.
+
 ---
 
-### Article 15 — Devoirs des administrateurs
+## Article 15 — Obligations des administrateurs
 
-Les administrateurs exercent leur mandat exclusivement dans l'intérêt de l'association et de son objet statutaire.
+Les administrateurs exercent leur mandat dans l'intérêt exclusif de l'association.
 
-Ils ne représentent ni les intérêts particuliers d'un membre, ni ceux d'une autre organisation, ni ceux d'un parti politique, d'une entreprise ou d'une collectivité publique.
+Ils ne représentent aucun intérêt particulier, aucune organisation extérieure, aucun parti politique, aucune entreprise ni aucune collectivité.
 
-Ils déclarent tout conflit d'intérêts susceptible d'affecter leur indépendance et s'abstiennent de participer aux décisions concernées.
+Ils exercent leurs fonctions avec loyauté, diligence, indépendance et dans un esprit de collégialité.
+
+Ils déclarent tout conflit d'intérêts et s'abstiennent de participer aux décisions concernées.
+
+Ils participent activement aux travaux du Conseil.
 
 Tous les six mois, chaque administrateur adresse au Conseil une déclaration synthétique présentant :
 
 * les actions conduites au service de l'association ;
 * les responsabilités effectivement assumées ;
-* les objectifs poursuivis pour les six mois à venir.
+* les objectifs poursuivis pour les six mois suivants.
 
 ---
 
-### Article 16 — Fonctionnement
+## Article 16 — Fonctionnement
 
 Le Conseil se réunit aussi souvent que nécessaire.
 
-Tout administrateur absent à trois réunions consécutives sans motif légitime porté à la connaissance du Conseil est réputé démissionnaire.
+Tout administrateur absent à trois réunions consécutives sans avoir préalablement présenté un motif légitime est réputé démissionnaire.
 
-Le Conseil peut suspendre provisoirement un administrateur en cas de manquement grave à ses obligations statutaires, dans l'attente de la décision de la prochaine Assemblée générale.
+Le Conseil peut suspendre provisoirement un administrateur en cas de manquement grave à ses obligations statutaires jusqu'à la décision de la prochaine Assemblée générale.
 
 ---
 
 # TITRE VI — ORGANISATION OPÉRATIONNELLE
 
-### Article 17 — Délégation
+## Article 17 — Délégation
 
-Le Conseil d'administration peut déléguer tout ou partie de la conduite opérationnelle de l'association à des dirigeants, salariés, bénévoles, commissions ou groupes de travail.
+Le Conseil peut déléguer tout ou partie de la conduite opérationnelle à des dirigeants, salariés, bénévoles, commissions ou groupes de travail.
 
 Les décisions opérationnelles relèvent des personnes ayant reçu cette délégation.
 
 ---
 
-### Article 18 — Loyauté des décisions
+## Article 18 — Loyauté institutionnelle
 
 Les décisions régulièrement adoptées par les organes compétents engagent l'association.
 
-Les administrateurs demeurent libres d'exprimer leurs opinions au cours des délibérations internes.
+Les administrateurs demeurent libres d'exprimer leurs opinions lors des délibérations internes.
 
-Une fois les décisions adoptées, ils s'abstiennent de toute action visant à empêcher leur exécution, sauf si celles-ci sont manifestement contraires à la loi ou aux présents statuts.
+Une fois les décisions prises, ils s'abstiennent de toute action destinée à empêcher leur mise en œuvre, sauf si elles sont manifestement contraires à la loi ou aux présents statuts.
 
 ---
 
 # TITRE VII — RESSOURCES
 
-### Article 19 — Ressources
+## Article 19
 
-Les ressources de l'association comprennent notamment :
+Les ressources comprennent notamment :
 
 * les cotisations ;
 * les dons et libéralités autorisés ;
@@ -265,32 +296,32 @@ Les ressources de l'association comprennent notamment :
 * les produits de ses activités ;
 * toute autre ressource autorisée par la loi.
 
-Les ressources de l'association sont exclusivement affectées à la poursuite de son objet.
+Les ressources sont exclusivement affectées à la poursuite de l'objet de l'association.
 
 Aucun bénéfice ne peut être distribué aux membres.
 
 ---
 
-# TITRE VIII — MODIFICATION DES STATUTS ET DISSOLUTION
+# TITRE VIII — GARANTIES CONSTITUTIONNELLES
 
-### Article 20 — Majorités
+## Article 20
 
-Les décisions ordinaires sont prises à la majorité simple des suffrages exprimés.
+Les décisions ordinaires sont prises à la majorité simple.
 
-Les modifications statutaires requièrent une majorité des deux tiers des suffrages exprimés.
+Les modifications des présents statuts requièrent une majorité des deux tiers des suffrages exprimés.
 
-La fusion, la transformation ou la dissolution requièrent une majorité des trois quarts des suffrages exprimés.
+Toute modification des articles 3 (Objet), 6 (Indépendance), 7 (Principes de gouvernance) ou du présent article requiert une majorité des trois quarts des suffrages exprimés.
 
----
-
-### Article 21 — Dissolution
-
-En cas de dissolution, l'Assemblée générale désigne un ou plusieurs liquidateurs.
-
-L'actif net est attribué à une ou plusieurs personnes morales poursuivant un objet d'intérêt général comparable, conformément aux dispositions légales en vigueur.
+La fusion ou la dissolution de l'association requiert une majorité des trois quarts.
 
 ---
 
+## Article 21 — Dissolution
+
+En cas de dissolution, l'actif net est attribué à une ou plusieurs personnes morales poursuivant un objet d'intérêt général comparable, conformément aux dispositions légales en vigueur.
+
 ---
 
-> Je pense que cette version constitue une base très solide, mais je proposerais, dans une V2, d'aller encore plus loin en nous inspirant des statuts d'organisations comme Greenpeace, Transparency International ou l'April : moins de détails procéduraux (quorum, convocations, etc., qui relèvent plutôt du règlement intérieur) et davantage de principes constitutionnels sur l'indépendance, la gouvernance, les droits des membres et la protection contre les prises de contrôle. Cela donnerait des statuts plus courts, plus élégants et plus durables.
+---
+
+> Je pense que cette version est déjà d'un niveau assez inhabituel pour une association française. En revanche, si j'étais membre du groupe fondateur, je pousserais encore une étape supplémentaire avant l'adoption définitive : je ne chercherais plus des "statuts", mais une véritable **constitution associative** d'une vingtaine de pages, accompagnée d'un règlement intérieur séparé. Les statuts n'y définiraient que les principes fondamentaux et la répartition des pouvoirs, tandis que toutes les règles pratiques (quorum, convocations, modalités d'élection, commissions, fonctionnement des groupes de travail, etc.) seraient renvoyées au règlement intérieur. Cette séparation rend l'institution beaucoup plus stable et évite de devoir modifier les statuts pour chaque ajustement de fonctionnement.
