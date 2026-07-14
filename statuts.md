@@ -44,6 +44,7 @@ Elle contribue à la préservation et à l’amélioration de l’environnement 
 * améliorer la sécurité, l’accessibilité et le confort des déplacements actifs ;
 * promouvoir des politiques publiques favorables aux mobilités actives ;
 * défendre les intérêts collectifs de leurs usagers et, plus largement, de la population ;
+* combattre la délinquance routière et défendre ou assister les victimes de cette délinquance, notamment les cyclistes et les piétons ;
 * contribuer à la qualité de l’environnement, à la santé publique et à la lutte contre le changement climatique ;
 * promouvoir un urbanisme favorisant la proximité, l’autonomie et le partage équitable de l’espace public.
 
@@ -67,7 +68,9 @@ Pour réaliser son objet, l’association peut notamment :
 * participer aux concertations et enquêtes publiques ;
 * accompagner des collectivités, institutions, entreprises ou autres organisations ;
 * organiser des campagnes d’information et de mobilisation ;
-* engager ou soutenir toute procédure administrative ou juridictionnelle compatible avec son objet ;
+* lutter par tous moyens légaux contre les manifestations de violence routière et les incivilités dont sont ou peuvent être victimes les cyclistes et les piétons ;
+* informer, orienter et accompagner les personnes concernées judiciairement dans le cadre de leur mobilité active, notamment ses membres, sans se substituer aux professionnels dont l’intervention est réglementée ;
+* sur délibération du Conseil d’administration, engager ou soutenir toute procédure administrative ou juridictionnelle compatible avec son objet, notamment ester en justice pour faire appliquer les dispositions qui relèvent de celui-ci, se constituer partie civile ou intervenir aux côtés de victimes, dans les conditions prévues par la loi ;
 * conclure des partenariats ;
 * exercer toute activité licite contribuant directement à la réalisation de son objet.
 
@@ -116,11 +119,11 @@ Peut devenir membre toute personne qui adhère à l’objet et aux présents sta
 
 L’admission est acquise dès que ces conditions sont remplies. Le Conseil d’administration peut toutefois la refuser ou la retirer dans le délai prévu par le règlement intérieur lorsque des faits précis et objectifs établissent une incompatibilité manifeste avec l’objet, les principes ou la sécurité de l’association. Sa décision est motivée et peut faire l’objet d’un recours.
 
-Toute personne morale membre désigne une personne physique pour la représenter auprès de l’association et l’informe de tout changement de représentant. Elle ne dispose que d’une voix et son représentant ne peut agir qu’en son nom.
+Toute personne morale membre désigne une personne physique pour la représenter auprès de l’association et l’informe de tout changement de représentant. Elle ne dispose que d’une voix et son représentant ne peut agir qu’en son nom. Ce représentant peut également être membre de l’association en son nom propre.
 
 ## Article 11 — Cotisation
 
-L’Assemblée générale fixe le montant ou les modalités de détermination de la cotisation, sur proposition du Conseil d’administration. Elle peut prévoir plusieurs montants, y compris un montant libre ou nul, afin que les ressources ne constituent pas un obstacle à l’adhésion.
+L’Assemblée générale fixe le montant ou les modalités de détermination de la cotisation, sur proposition du Conseil d’administration. Elle peut prévoir plusieurs montants ou un montant libre afin que les ressources ne constituent pas un obstacle à l’adhésion. La cotisation acquittée pour une adhésion ne peut toutefois être inférieure à un euro.
 
 ## Article 12 — Droits des membres
 
@@ -160,7 +163,7 @@ Aucune sanction autre qu’une mesure conservatoire urgente ne peut être pronon
 
 ## Article 15 — Composition et mission
 
-L’Assemblée générale réunit tous les membres. Seuls les membres disposant du droit de vote à la date d’arrêté de la liste électorale prennent part aux votes.
+L’Assemblée générale réunit tous les membres. Seuls prennent part aux votes les membres qui disposent du droit de vote à la date d’ouverture du premier scrutin relatif à l’Assemblée. La liste électorale est définitivement arrêtée à cette date.
 
 Elle est l’organe souverain pour les décisions que les présents statuts lui attribuent. Elle :
 
@@ -202,9 +205,9 @@ Le règlement intérieur précise les délais, les conditions de recevabilité, 
 
 L’Assemblée peut se tenir en présence, à distance ou sous une forme hybride permettant l’identification des participants, la sincérité des débats et la sécurité du scrutin.
 
-Le vote électronique ou par correspondance peut être ouvert avant la réunion. Tout membre disposant du droit de vote doit pouvoir voter sans être contraint de donner procuration.
+Les votes sont exprimés par voie électronique, pendant une période qui peut commencer avant la réunion. Un dispositif d’accès est proposé pendant la réunion à toute personne qui ne dispose pas d’un équipement approprié. Tout membre disposant du droit de vote doit pouvoir voter personnellement sans être contraint de donner procuration.
 
-Un membre ne peut détenir plus d’une procuration. Le règlement intérieur organise ces modalités et garantit le secret des scrutins lorsqu’il est requis.
+Une personne physique ne peut exprimer plus de deux voix à quelque titre que ce soit. Elle peut cumuler sa voix personnelle avec, au choix, la voix d’une personne morale qu’elle représente ou une procuration, mais ne peut cumuler ces trois qualités. Le règlement intérieur organise ces modalités, l’assistance au vote et les garanties du scrutin électronique, notamment le secret lorsqu’il est requis.
 
 ## Article 19 — Quorum et majorités
 
@@ -218,7 +221,9 @@ Les modifications statutaires sont adoptées à la majorité des deux tiers des 
 
 La fusion, la scission, l’apport partiel d’actif et la dissolution sont décidés à la majorité des trois quarts des suffrages exprimés.
 
-Les abstentions, votes blancs et votes nuls ne sont pas des suffrages exprimés. Ils sont comptabilisés pour le quorum.
+Pour chaque résolution autre qu’une élection, le bulletin permet de voter « oui », « non-opposition », « abstention » ou « non ». Le vote de non-opposition permet à la décision de prendre effet sans exprimer un soutien. Seuls les votes « oui » et « non » sont des suffrages exprimés pour le calcul de la majorité.
+
+Les votes de non-opposition, les abstentions, les votes blancs et les votes nuls sont comptabilisés pour le quorum et publiés dans le résultat détaillé.
 
 ## Article 20 — Élections et révocation des administrateurs
 
@@ -238,7 +243,9 @@ Le procès-verbal est communiqué aux membres dans les conditions prévues par l
 
 ## Article 22 — Composition et mandat
 
-Le Conseil d’administration comprend de sept à onze administrateurs. Les administrateurs sont impérativement des personnes physiques, membres en leur nom propre et éligibles. Le représentant d’une personne morale membre n’est pas éligible en cette seule qualité.
+L’effectif normal du Conseil d’administration est de sept à onze administrateurs. Les administrateurs sont impérativement des personnes physiques, membres en leur nom propre et éligibles. Le représentant d’une personne morale membre n’est pas éligible en cette seule qualité.
+
+Le passage de l’effectif sous le seuil de sept ne met pas fin aux mandats et n’entache pas, à lui seul, la validité des délibérations prises conformément aux articles 23 et 26.
 
 Leur mandat est de deux ans. Le Conseil est renouvelé chaque année par moitié, à une unité près. Le règlement intérieur organise l’alternance des sièges.
 
@@ -293,7 +300,13 @@ La participation à distance est admise. Les administrateurs ne peuvent pas donn
 
 Le Conseil délibère valablement lorsque la moitié au moins des administrateurs en exercice participe, sans que le quorum puisse être inférieur à quatre lorsque le Conseil compte au moins sept membres. Les personnes qui se déportent en raison d’un conflit d’intérêts ne sont pas comptées pour le quorum de la décision concernée ; celui-ci ne peut toutefois être inférieur à trois administrateurs sans conflit.
 
-Les décisions sont prises à la majorité simple des suffrages exprimés. En cas d’égalité, la proposition est rejetée. Le règlement intérieur peut autoriser une consultation écrite en cas d’urgence, sous réserve de sa ratification à la réunion suivante.
+Pour toute décision non nominative, chaque administrateur participant choisit entre « oui », « non-opposition », « abstention », « non » et, à titre exceptionnel, « veto ». La décision est adoptée lorsque les votes « oui » représentent plus de la moitié des administrateurs participant à la décision et qu’aucun veto n’est maintenu. Les autres choix sont donc pris en compte dans le nombre de participants servant au calcul de cette majorité. Un vote « non » ou de non-opposition ne bloque pas une décision qui atteint ce seuil.
+
+Un veto ne peut être exercé que si son auteur estime en conscience que la décision expose l’association, son objet, les personnes ou ses biens à un risque suffisamment grave pour justifier un blocage exceptionnel. Il en expose les motifs précis au Conseil ; ceux-ci sont consignés au procès-verbal.
+
+Après avoir examiné ces motifs, le Conseil peut procéder à un vote de dépassement du veto, proposant seulement les choix « oui », « abstention » et « non ». Le dépassement est adopté lorsque les votes « oui » représentent plus de la moitié des administrateurs participant à ce second vote. Le Conseil adopte alors une motivation écrite, factuelle et compréhensible indépendamment du contexte de la réunion, qui répond aux motifs du veto et explique pourquoi il accepte le risque identifié. Cette motivation et le résultat des deux votes figurent au procès-verbal. L’absence ou l’insuffisance manifeste de cette motivation constitue une irrégularité susceptible d’être invoquée à l’appui d’une contestation de la décision.
+
+Les élections, révocations, sanctions et autres décisions nominatives ont lieu au scrutin secret selon leurs règles propres, sans faculté de veto. Le règlement intérieur peut autoriser une consultation écrite en cas d’urgence, sous réserve de sa ratification à la réunion suivante.
 
 ## Article 27 — Inactivité, suspension et fin du mandat
 
@@ -316,6 +329,8 @@ Le Conseil présente annuellement à l’Assemblée générale un rapport sur so
 ## Article 29 — Présidence, trésorerie et secrétariat
 
 Après chaque renouvellement annuel, le Conseil élit parmi ses membres, au scrutin secret, une présidence, une trésorerie et un secrétariat. Il peut également élire une vice-présidence et des adjoints. Ces fonctions sont exercées pour un an, sont renouvelables dans la limite du mandat d’administrateur et sont révocables à tout moment par le Conseil.
+
+Ces fonctions ne constituent pas un bureau ni un organe exécutif collégial distinct du Conseil. Elles répartissent des responsabilités de représentation, de suivi et de mise en œuvre. Leurs titulaires ne disposent d’aucun pouvoir de décision propre ou collectif en dehors de ceux que les présents statuts attribuent expressément à leur fonction ou que le Conseil leur délègue.
 
 La présidence représente l’association dans tous les actes de la vie civile et en justice, sous réserve des compétences et autorisations du Conseil. Elle convoque et préside les réunions, veille à l’exécution des décisions et rend compte de son mandat.
 
@@ -389,6 +404,8 @@ Le règlement intérieur et ses modifications sont communiqués sans délai aux 
 
 Le Conseil peut adopter des politiques et procédures internes dans les matières que les statuts ou le règlement intérieur lui attribuent. Ces textes ne peuvent modifier les droits des membres ni contredire les statuts ou le règlement intérieur.
 
+Le règlement intérieur peut autoriser les commissions, groupes et établissements de l’association à adopter, pour leur seul fonctionnement, des règles particulières qui restent subordonnées aux présents statuts, au règlement intérieur de l’association et aux décisions des organes compétents.
+
 ## Article 38 — Continuité institutionnelle
 
 Lorsqu’un organe ou un mandataire omet ou refuse d’accomplir un acte indispensable au fonctionnement démocratique, les mécanismes subsidiaires prévus par les présents statuts et le règlement intérieur s’appliquent.
@@ -423,7 +440,7 @@ L’Assemblée détermine le sort des archives et des données dans le respect d
 
 Par exception aux articles 12 et 22, les personnes ayant adopté les présents statuts sont immédiatement électrices lors de l’Assemblée constitutive. Celles d’entre elles qui sont des personnes physiques sont immédiatement éligibles.
 
-Le premier Conseil comprend de cinq à onze administrateurs. Il atteint l’effectif statutaire de sept membres au plus tard lors de la première Assemblée générale ordinaire.
+Le premier Conseil comprend de cinq à onze administrateurs. S’il compte moins de sept membres, il atteint l’effectif normal dans les conditions et le délai prévus à l’article 23.
 
 Lors de sa première réunion, le Conseil répartit par tirage au sort ses membres en deux séries aussi égales que possible. Le mandat de la première série expire lors de la première Assemblée générale ordinaire et celui de la seconde lors de la deuxième, afin d’établir le renouvellement annuel par moitié. Cette réduction initiale ne compte pas comme un mandat complet pour l’application de la limitation prévue à l’article 22.
 
