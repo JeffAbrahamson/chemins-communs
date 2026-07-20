@@ -451,3 +451,36 @@ Le premier Conseil comprend de deux à onze administrateurs pendant les six prem
 Lors de sa première réunion, le Conseil répartit par tirage au sort ses membres en deux séries aussi égales que possible. Le mandat de la première série expire lors de la première Assemblée générale ordinaire et celui de la seconde lors de la deuxième, afin d’établir le renouvellement annuel par moitié. Cette réduction initiale ne compte pas comme un mandat complet pour l’application de la limitation prévue à l’article 22.
 
 Le premier règlement intérieur est adopté par l’Assemblée constitutive. Il peut ensuite être modifié conformément à l’article 37.
+
+---
+
+# ANNEXE — Repères de gouvernance
+
+*Cette annexe est informative. Elle ne modifie ni n’interprète les statuts ; elle en met en lumière quatre mécanismes dont la bonne compréhension par les membres et les administrateurs conditionne leur bon fonctionnement.*
+
+## Le veto du Conseil : une seconde lecture motivée, pas un blocage
+
+L’article 26 ouvre à tout administrateur, à titre exceptionnel, la faculté d’un veto lorsqu’une décision lui paraît exposer l’association à un risque grave. Il est utile de rappeler ce que ce mécanisme fait, et ce qu’il ne fait pas : le vote de dépassement se prend à la même majorité que la décision initiale. Le veto n’attribue donc à son auteur aucun pouvoir de blocage définitif ; il déclenche une pause, l’obligation d’exposer des motifs précis consignés au procès-verbal, puis une seconde délibération assortie, en cas de dépassement, d’une motivation écrite qui répond à ces motifs. C’est une garantie de vigilance et de traçabilité, non un droit d’opposition — et c’est précisément ce qui en fait un outil proportionné : il ne coûte qu’un temps de réflexion et un écrit que la bonne gouvernance appelle de toute façon.
+
+## La stabilité de la numérotation des articles
+
+L’article 19 fait dépendre l’exigence de majorité qualifiée renforcée de la désignation nominative de certains articles (4, 8, 9, 12, 15, 19, 33, 37, 38, 40). Cette liste n’a de sens que si la numérotation des statuts reste stable dans le temps. Il est donc rappelé, à l’attention du Conseil et de toute personne préparant une révision statutaire, la discipline à observer : ne jamais renuméroter les articles existants, et insérer toute disposition nouvelle sous une numérotation dérivée (par exemple « Article 6 bis »), à l’image de la pratique déjà suivie par le règlement intérieur.
+
+## Le renouvellement annuel : un rendez-vous électoral à part entière
+
+Le renouvellement du Conseil par moitié chaque année (article 22) signifie que l’intégralité du dispositif électoral — désignation de la commission électorale, vote électronique conforme aux préconisations de la CNIL, respect du calendrier de convocation (appel à propositions 45 jours avant, dépôt des résolutions 30 jours avant, convocation 21 jours avant, documents préparatoires 14 jours avant, candidatures 10 jours avant, texte définitif 7 jours avant l’ouverture du scrutin) — se déroule chaque année, sans exception. C’est la charge récurrente la plus lourde des présents statuts et du règlement intérieur. Les personnes chargées de la préparer sont invitées à s’appuyer sur une check-list annuelle dédiée plutôt que sur la seule lecture du règlement intérieur, précisément parce que ce calendrier est celui dont l’oubli, même partiel, est le plus probable en pratique. Le principe de proportionnalité du dispositif de vote (règlement intérieur, article 17) et la limitation de la nullité aux seules irrégularités susceptibles d’avoir affecté le résultat (règlement intérieur, articles 10 et 19) offrent des garde-fous adaptés en cas de manquement mineur ; ils ne dispensent pas de la rigueur du calendrier.
+
+Résumé du calendrier électoral annuel :
+
+| Délai avant l’ouverture du scrutin | Obligation |
+| --- | --- |
+| 45 jours | Le Conseil diffuse l’appel à propositions de résolutions (RI, art. 12). |
+| 30 jours | Date limite de transmission des propositions de résolution par leurs auteurs (RI, art. 12). |
+| 21 jours | Envoi de la convocation, avec date, modalités de participation et ordre du jour (statuts, art. 16). |
+| 14 jours | Mise à disposition des documents préparatoires : rapports, comptes, budget, projets de résolution, candidatures déjà recevables (RI, art. 13). |
+| 10 jours | Date limite de réception des candidatures au Conseil (RI, art. 18). |
+| 7 jours | Publication de la version définitive des textes soumis au vote et ouverture du scrutin anticipé (RI, art. 13 et 17). |
+
+## L’ouverture du vote avant le débat : un arbitrage assumé
+
+Le scrutin relatif aux résolutions publiées à l’avance s’ouvre au moins sept jours avant l’Assemblée (règlement intérieur, article 17), de sorte qu’un membre peut voter avant d’avoir entendu les échanges de la réunion. Ce choix privilégie la participation du plus grand nombre, y compris des membres empêchés d’assister à la réunion. Il est équilibré par la faculté de remplacer son vote jusqu’à la clôture du scrutin et par les règles de stabilité des textes soumis au vote (article 16 du règlement intérieur), qui garantissent qu’aucune résolution n’est adoptée sur une version différente de celle qui a été votée. Il appartient à l’Assemblée générale, si elle le souhaite, de réexaminer cet équilibre ; en l’état, il constitue un choix délibéré et non une omission.
