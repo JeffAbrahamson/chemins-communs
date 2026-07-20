@@ -446,7 +446,7 @@ Par exception aux articles 12 et 22, est éligible au Conseil d’administration
 
 Les délais d’ancienneté prévus à l’article 12 ne peuvent, par ailleurs, excéder la durée écoulée depuis la déclaration de l’association.
 
-Le premier Conseil comprend de cinq à onze administrateurs. S’il compte moins de sept membres, il atteint l’effectif normal dans les conditions et le délai prévus à l’article 23.
+Le premier Conseil comprend de deux à onze administrateurs pendant les six premiers mois suivant la déclaration de l’association. Jusqu’à quinze mois suivant la déclaration, il peut continuer à compter moins de cinq administrateurs lorsque le nombre de membres éligibles ne permet pas d’atteindre cet effectif. Passé ce délai, il comprend au moins cinq administrateurs. S’il compte moins de sept membres, il atteint l’effectif normal dans les conditions et le délai prévus à l’article 23.
 
 Lors de sa première réunion, le Conseil répartit par tirage au sort ses membres en deux séries aussi égales que possible. Le mandat de la première série expire lors de la première Assemblée générale ordinaire et celui de la seconde lors de la deuxième, afin d’établir le renouvellement annuel par moitié. Cette réduction initiale ne compte pas comme un mandat complet pour l’application de la limitation prévue à l’article 22.
 

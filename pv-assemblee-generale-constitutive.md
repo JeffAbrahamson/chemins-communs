@@ -16,7 +16,8 @@ Le président de séance rappelle que l'assemblée est réunie afin de statuer s
 1. Création de l'association ;
 2. Dénomination de l'association ;
 3. Adoption des statuts ;
-4. Adoption du règlement intérieur.
+4. Adoption du règlement intérieur ;
+5. Élection des administrateurs.
 
 ---
 
@@ -41,6 +42,14 @@ L'assemblée adopte les statuts de l'association, dont le texte est annexé au p
 ## Quatrième résolution — Adoption du règlement intérieur
 
 L'assemblée adopte le règlement intérieur de l'association, dont le texte est annexé au présent procès-verbal.
+
+*Cette résolution est adoptée à l'unanimité.*
+
+## Cinquième résolution — Élection des administrateurs
+
+Jeffrey Abrahamson et Yann Leclercq se portent candidats aux fonctions d'administrateur.
+
+L'assemblée élit Jeffrey Abrahamson et Yann Leclercq en qualité d'administrateurs du Conseil d'administration.
 
 *Cette résolution est adoptée à l'unanimité.*
 
