@@ -440,9 +440,11 @@ L’Assemblée détermine le sort des archives et des données dans le respect d
 
 ## Article 41 — Première administration
 
-Par exception aux articles 12 et 22, les personnes ayant adopté les présents statuts sont immédiatement électrices lors de l’Assemblée constitutive. Celles d’entre elles qui sont des personnes physiques sont immédiatement éligibles.
+Par exception à l’article 12, les personnes ayant adopté les présents statuts sont immédiatement électrices lors de l’Assemblée constitutive.
 
-Les délais d’ancienneté prévus à l’article 12 ne peuvent excéder la durée écoulée depuis la déclaration de l’association.
+Par exception aux articles 12 et 22, est éligible au Conseil d’administration toute personne physique membre en son nom propre qui a adhéré à l’association dans les deux mois suivant sa déclaration et qui a, dans ce même délai, demandé expressément à bénéficier de cette éligibilité anticipée, selon les modalités prévues par le règlement intérieur. Cette éligibilité anticipée ne dispense pas de l’élection ou de la cooptation prévues par les présents statuts et ne confère par elle-même aucune fonction au sein de l’association.
+
+Les délais d’ancienneté prévus à l’article 12 ne peuvent, par ailleurs, excéder la durée écoulée depuis la déclaration de l’association.
 
 Le premier Conseil comprend de cinq à onze administrateurs. S’il compte moins de sept membres, il atteint l’effectif normal dans les conditions et le délai prévus à l’article 23.
 
