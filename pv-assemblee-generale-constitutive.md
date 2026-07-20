@@ -6,6 +6,7 @@ Le 23 juillet 2026, à Nantes, se sont réunis les membres fondateurs de l'assoc
 * Pierre-Antoine Augereau
 * Yann Leclercq
 * Alexis Groussin
+* Pauline Martin
 
 Tous les membres fondateurs étant présents, l'assemblée peut valablement délibérer.
 
@@ -74,6 +75,8 @@ Pierre-Antoine Augereau
 Yann Leclercq
 
 Alexis Groussin
+
+Pauline Martin
 
 ---
 
