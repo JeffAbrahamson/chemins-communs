@@ -6,6 +6,8 @@ Le 23 juillet 2026, à Nantes, se sont réunis les membres fondateurs de l'assoc
 * Pierre-Antoine Augereau
 * Alexis Groussin
 * Pauline Martin
+* Laurent Mutricy
+* Francine Fonteneau
 
 Tous les membres fondateurs étant présents, l'assemblée peut valablement délibérer.
 
@@ -47,9 +49,9 @@ L'assemblée adopte le règlement intérieur de l'association, dont le texte est
 
 ## Cinquième résolution — Élection des administrateurs
 
-Jeffrey Abrahamson et Pauline Martin se portent candidats aux fonctions d'administrateur.
+Jeffrey Abrahamson, Pauline Martin, et Francine Fonteneau se portent candidats aux fonctions d'administrateur.
 
-L'assemblée élit Jeffrey Abrahamson et Pauline Martin en qualité d'administrateurs du Conseil d'administration.
+L'assemblée élit Jeffrey Abrahamson, Pauline Martin, et Francine Fonteneau en qualité d'administrateurs du Conseil d'administration.
 
 *Cette résolution est adoptée à l'unanimité.*
 
@@ -74,6 +76,10 @@ Pierre-Antoine Augereau
 Alexis Groussin
 
 Pauline Martin
+
+Laurent Mutricy
+
+Francine Fonteneau
 
 ---
 
