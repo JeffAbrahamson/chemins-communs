@@ -4,7 +4,6 @@ Le 23 juillet 2026, à Nantes, se sont réunis les membres fondateurs de l'assoc
 
 * Jeffrey Abrahamson
 * Pierre-Antoine Augereau
-* Yann Leclercq
 * Alexis Groussin
 * Pauline Martin
 
@@ -48,9 +47,9 @@ L'assemblée adopte le règlement intérieur de l'association, dont le texte est
 
 ## Cinquième résolution — Élection des administrateurs
 
-Jeffrey Abrahamson et Yann Leclercq se portent candidats aux fonctions d'administrateur.
+Jeffrey Abrahamson et Pauline Martin se portent candidats aux fonctions d'administrateur.
 
-L'assemblée élit Jeffrey Abrahamson et Yann Leclercq en qualité d'administrateurs du Conseil d'administration.
+L'assemblée élit Jeffrey Abrahamson et Pauline Martin en qualité d'administrateurs du Conseil d'administration.
 
 *Cette résolution est adoptée à l'unanimité.*
 
@@ -71,8 +70,6 @@ Alexis Groussin
 Jeffrey Abrahamson
 
 Pierre-Antoine Augereau
-
-Yann Leclercq
 
 Alexis Groussin
 
