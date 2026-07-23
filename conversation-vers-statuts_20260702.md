@@ -258,7 +258,7 @@ That distinction is obvious in company law but often surprisingly absent from as
 ---
 
 > we're creating a new advocacy organisation for mobilites actives (velo + marche a pied).
-> For the moment, let's suppose the org will be called Chemins Communs.
+> For the moment, let's suppose the org will be called Sourires en Ville.
 > We need to write bylaws - statuts.
 > 
 > Let's brainstorm what needs to be included.  I'll start.
@@ -880,7 +880,7 @@ Cela évite le syndrome :
 
 Non.
 
-Tu sièges parce que tu es administrateur de **Chemins Communs**.
+Tu sièges parce que tu es administrateur de **Sourires en Ville**.
 
 ---
 

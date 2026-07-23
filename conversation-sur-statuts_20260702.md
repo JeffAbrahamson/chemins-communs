@@ -123,7 +123,7 @@ Quelque chose comme :
 
 > Leur développement relève de l'intérêt général.
 
-> Chemins Communs est créée pour défendre durablement ces mobilités, représenter leurs usagers et contribuer à des politiques publiques permettant leur essor.
+> Sourires en Ville est créée pour défendre durablement ces mobilités, représenter leurs usagers et contribuer à des politiques publiques permettant leur essor.
 
 > Les présents statuts organisent l'action collective des membres afin de garantir à la fois l'efficacité de cette mission, le fonctionnement démocratique de l'association et son indépendance.
 
@@ -146,5 +146,5 @@ Pourquoi ? Parce qu'il est relativement facile de réunir deux tiers des voix da
 
 ---
 
-Je pense même que nous pourrions viser quelque chose d'assez rare en France : des statuts qui ressemblent davantage à ceux d'une grande ONG internationale qu'à un modèle préfectoral. Ce serait plus exigeant à rédiger, mais cela correspond bien à l'ambition de **Chemins Communs** : construire une institution durable, démocratique et difficile à détourner de sa mission.
+Je pense même que nous pourrions viser quelque chose d'assez rare en France : des statuts qui ressemblent davantage à ceux d'une grande ONG internationale qu'à un modèle préfectoral. Ce serait plus exigeant à rédiger, mais cela correspond bien à l'ambition de **Sourires en Ville** : construire une institution durable, démocratique et difficile à détourner de sa mission.
 

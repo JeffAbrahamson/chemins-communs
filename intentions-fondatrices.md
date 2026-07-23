@@ -1,6 +1,6 @@
 # Construire une institution durable
 
-## Intentions fondatrices de Chemins Communs
+## Intentions fondatrices de Sourires en Ville
 
 ### Pourquoi ce document ?
 
@@ -8,7 +8,7 @@ Les statuts répondent à une question juridique : *comment fonctionne l'associa
 
 Ils répondent beaucoup moins bien à une autre question, pourtant essentielle : *pourquoi avons-nous choisi de la faire fonctionner ainsi ?*
 
-Ce document a pour objectif d'expliciter les intentions qui ont guidé la rédaction des statuts de Chemins Communs. Il ne constitue ni un texte juridique, ni un commentaire officiel des statuts. Il s'agit plutôt d'un document fondateur destiné aux personnes qui participent à la création de l'association et, plus tard, à celles qui en reprendront la responsabilité.
+Ce document a pour objectif d'expliciter les intentions qui ont guidé la rédaction des statuts de Sourires en Ville. Il ne constitue ni un texte juridique, ni un commentaire officiel des statuts. Il s'agit plutôt d'un document fondateur destiné aux personnes qui participent à la création de l'association et, plus tard, à celles qui en reprendront la responsabilité.
 
 Nous espérons qu'il permettra de comprendre non seulement les règles que nous avons retenues, mais aussi les problèmes que nous avons cherché à résoudre.
 
@@ -18,7 +18,7 @@ Les statuts pourront évoluer au fil des années. Les réponses que nous apporto
 
 # Une ambition institutionnelle
 
-Chemins Communs n'est pas conçue comme une association destinée à organiser des sorties, des événements ou des services pour ses adhérents.
+Sourires en Ville n'est pas conçue comme une association destinée à organiser des sorties, des événements ou des services pour ses adhérents.
 
 Notre ambition est de créer une organisation de plaidoyer capable d'améliorer durablement les conditions de la marche et du vélo, de produire de l'expertise, de dialoguer avec les décideurs publics, de représenter les intérêts des usagers et, lorsque cela sera nécessaire, de défendre ces intérêts dans le débat public ou devant les juridictions.
 
@@ -70,7 +70,7 @@ C'est pourquoi nous avons consacré une place importante à l'objet de l'associa
 
 Cette distinction nous paraît importante.
 
-Chemins Communs pourra organiser des conférences, des balades, des formations, des événements ou des actions de sensibilisation.
+Sourires en Ville pourra organiser des conférences, des balades, des formations, des événements ou des actions de sensibilisation.
 
 Mais ces activités ne constituent pas sa raison d'être.
 
@@ -203,7 +203,7 @@ Nous ne souhaitons pas que les administrateurs représentent des intérêts part
 
 Ils ne représentent ni leur employeur, ni leur commune, ni une autre association, ni un parti politique, ni même les personnes qui ont voté pour eux.
 
-Ils représentent exclusivement l'intérêt de Chemins Communs.
+Ils représentent exclusivement l'intérêt de Sourires en Ville.
 
 Cette idée est centrale.
 
@@ -319,4 +319,4 @@ Permettre une action efficace dans le débat public.
 
 Et transmettre aux générations futures une institution plus solide que celle que nous avons reçue.
 
-Si, dans vingt ans, les membres de Chemins Communs considèrent que certains mécanismes doivent évoluer, nous espérons qu'ils le feront dans le même esprit que celui qui a guidé la rédaction de ces statuts : non pour répondre à une difficulté immédiate, mais pour renforcer encore la capacité de l'association à servir durablement l'intérêt général.
+Si, dans vingt ans, les membres de Sourires en Ville considèrent que certains mécanismes doivent évoluer, nous espérons qu'ils le feront dans le même esprit que celui qui a guidé la rédaction de ces statuts : non pour répondre à une difficulté immédiate, mais pour renforcer encore la capacité de l'association à servir durablement l'intérêt général.

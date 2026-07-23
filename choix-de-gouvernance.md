@@ -1,10 +1,10 @@
 # Construire une institution durable
 
-## Raisons et limites des choix de gouvernance de Chemins Communs
+## Raisons et limites des choix de gouvernance de Sourires en Ville
 
 ## Statut de ce document
 
-Ce document explique les choix retenus dans le projet de statuts et le règlement intérieur de Chemins Communs. Il n’a pas de valeur normative : en cas de divergence, les statuts prévalent, puis le règlement intérieur.
+Ce document explique les choix retenus dans le projet de statuts et le règlement intérieur de Sourires en Ville. Il n’a pas de valeur normative : en cas de divergence, les statuts prévalent, puis le règlement intérieur.
 
 Il poursuit trois objectifs.
 
@@ -20,7 +20,7 @@ Ce projet doit être relu avant adoption par une personne qualifiée en droit de
 
 # 1. Le problème que nous cherchons réellement à résoudre
 
-Chemins Communs n’est pas créée seulement pour réunir des personnes favorables à la marche et au vélo. Elle ambitionne d’influencer durablement les politiques publiques, de produire une expertise crédible, de défendre des intérêts collectifs et, au besoin, de soutenir un contentieux.
+Sourires en Ville n’est pas créée seulement pour réunir des personnes favorables à la marche et au vélo. Elle ambitionne d’influencer durablement les politiques publiques, de produire une expertise crédible, de défendre des intérêts collectifs et, au besoin, de soutenir un contentieux.
 
 Une organisation de plaidoyer dépend de plusieurs formes de légitimité. Elle répond à ses membres, mais aussi aux personnes qui marchent ou se déplacent à vélo sans y adhérer, au public, aux institutions avec lesquelles elle dialogue et aux générations futures qui subiront les conséquences des décisions d’aménagement prises aujourd’hui. Elle doit parfois coopérer avec une collectivité le matin et critiquer publiquement sa décision l’après-midi.
 
@@ -78,7 +78,7 @@ Ce choix est volontairement souple. Lorsque le siège et le projet territorial s
 
 # 5. Indépendante ne signifie pas neutre
 
-Chemins Communs est une organisation de plaidoyer. Elle doit pouvoir défendre des positions fortes, y compris en période électorale, sans devenir l’instrument d’un parti ou d’un candidat.
+Sourires en Ville est une organisation de plaidoyer. Elle doit pouvoir défendre des positions fortes, y compris en période électorale, sans devenir l’instrument d’un parti ou d’un candidat.
 
 Les statuts distinguent donc trois choses : l’absence de mandat impératif extérieur, l’interdiction de soutenir un parti ou une candidature, et la liberté d’interroger les candidats, d’évaluer leurs propositions ou de critiquer les actes des responsables publics.
 
@@ -108,7 +108,7 @@ Le délai de grâce de trente jours évite qu’un oubli administratif efface pl
 
 Les collectivités, associations, collectifs dotés de la personnalité morale, entreprises ou autres organismes peuvent adhérer. Leur présence peut enrichir l’expertise, manifester un soutien et créer des liens utiles. Chaque personne morale ne dispose toutefois que d’une voix, exercée par une personne physique expressément désignée.
 
-Les administrateurs sont impérativement des personnes physiques membres en leur nom propre. Une personne morale ne peut donc ni occuper un siège au Conseil ni y envoyer un représentant de droit. Cette séparation évite que le Conseil devienne une assemblée d’organisations mandatant leurs délégués et confirme que chaque administrateur engage son jugement et sa responsabilité personnels au service exclusif de Chemins Communs.
+Les administrateurs sont impérativement des personnes physiques membres en leur nom propre. Une personne morale ne peut donc ni occuper un siège au Conseil ni y envoyer un représentant de droit. Cette séparation évite que le Conseil devienne une assemblée d’organisations mandatant leurs délégués et confirme que chaque administrateur engage son jugement et sa responsabilité personnels au service exclusif de Sourires en Ville.
 
 Le représentant d’une personne morale peut naturellement adhérer aussi en son nom propre. Il dispose alors de sa voix personnelle et peut devenir éligible après l’ancienneté requise, mais il doit déclarer le lien avec la personne morale et traiter les éventuels conflits d’intérêts.
 
@@ -452,7 +452,7 @@ Les statuts ne peuvent garantir ni la compétence, ni la bienveillance, ni le co
 
 Leur fonction est plus modeste et plus importante : rendre le pouvoir identifiable, contestable et transmissible ; permettre de décider sans exiger l’unanimité ; protéger les personnes sans rendre toute action impossible ; ralentir les changements fondamentaux sans interdire l’évolution.
 
-Chemins Communs sera durable si chaque génération se considère moins comme propriétaire que comme dépositaire. Elle reçoit une mission, des ressources, une réputation et des institutions. Elle doit pouvoir les adapter, mais aussi expliquer ce qu’elle change et transmettre à son tour une organisation capable d’agir.
+Sourires en Ville sera durable si chaque génération se considère moins comme propriétaire que comme dépositaire. Elle reçoit une mission, des ressources, une réputation et des institutions. Elle doit pouvoir les adapter, mais aussi expliquer ce qu’elle change et transmettre à son tour une organisation capable d’agir.
 
 Le meilleur usage de ce document ne sera donc pas de citer les intentions des fondateurs comme une autorité. Il sera de reprendre leur méthode : identifier le problème réel, rendre les intérêts et les compromis visibles, choisir une règle proportionnée, observer ses effets et accepter de la corriger sans sacrifier la mission.
 

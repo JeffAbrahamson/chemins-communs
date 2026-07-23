@@ -1,4 +1,4 @@
-# Projet de règlement intérieur de l’association Chemins Communs
+# Projet de règlement intérieur de l’association Sourires en Ville
 
 ## Préambule
 

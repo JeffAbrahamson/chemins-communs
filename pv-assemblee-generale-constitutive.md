@@ -1,6 +1,6 @@
-# Procès-verbal de l'assemblée générale constitutive de l'association Chemins Communs
+# Procès-verbal de l'assemblée générale constitutive de l'association Sourires en Ville
 
-Le 23 juillet 2026, à Nantes, se sont réunis les membres fondateurs de l'association en cours de formation dénommée « Chemins Communs » :
+Le 23 juillet 2026, à Nantes, se sont réunis les membres fondateurs de l'association en cours de formation dénommée « Sourires en Ville » :
 
 * Jeffrey Abrahamson
 * Pierre-Antoine Augereau
@@ -31,7 +31,7 @@ L'assemblée décide de constituer entre les personnes présentes une associatio
 
 ## Deuxième résolution — Dénomination
 
-L'assemblée décide que l'association est dénommée **Chemins Communs**.
+L'assemblée décide que l'association est dénommée **Sourires en Ville**.
 
 *Cette résolution est adoptée à l'unanimité.*
 

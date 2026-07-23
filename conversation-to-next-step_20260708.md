@@ -179,7 +179,7 @@ I think the final document should be around **4,000 words**.
 
 Not because it needs to be longer, but because I think there's enough substance to justify that length.
 
-In fact, I'd almost stop thinking of it as "notes accompanying the statutes". I'd think of it as **the founding paper of Chemins Communs**—something that every future board member is encouraged to read before their first board meeting. If it succeeds in that role, it will probably outlast several revisions of the statutes themselves.
+In fact, I'd almost stop thinking of it as "notes accompanying the statutes". I'd think of it as **the founding paper of Sourires en Ville**—something that every future board member is encouraged to read before their first board meeting. If it succeeds in that role, it will probably outlast several revisions of the statutes themselves.
 
 ---
 
@@ -323,7 +323,7 @@ That makes the document much stronger.
 
 One question I'd like the document to answer is
 
-> If Chemins Communs is thriving in 2050, what characteristics will it have?
+> If Sourires en Ville is thriving in 2050, what characteristics will it have?
 
 Not activities.
 
@@ -474,15 +474,15 @@ That title suggests an explanatory note.
 I think it deserves a title that makes clear it is part of the constitutional identity of the organisation. Possibilities include:
 
 * **Construire une institution**
-* **Principes fondateurs de Chemins Communs**
+* **Principes fondateurs de Sourires en Ville**
 * **Pour une institution durable**
-* **Philosophie de gouvernance de Chemins Communs**
+* **Philosophie de gouvernance de Sourires en Ville**
 * **L'esprit des statuts**
 * **Une institution au service des mobilités actives**
 
 Of those, my preference is **Construire une institution**.
 
-That title reflects what distinguishes Chemins Communs from many associations. The objective is not simply to create another legal entity, but to create an institution that people can inherit, strengthen, and eventually pass on again. It also broadens the document beyond the current version of the statutes, allowing it to remain relevant even as those statutes evolve over time.
+That title reflects what distinguishes Sourires en Ville from many associations. The objective is not simply to create another legal entity, but to create an institution that people can inherit, strengthen, and eventually pass on again. It also broadens the document beyond the current version of the statutes, allowing it to remain relevant even as those statutes evolve over time.
 
 ---
 
@@ -528,7 +528,7 @@ I'd probably begin with something like:
 >
 > Pourtant, ce n'est pas dans ces moments-là que les institutions révèlent leur qualité. Elles la révèlent lorsque les personnes changent, lorsque les responsabilités deviennent plus nombreuses, lorsque les désaccords s'installent, lorsque les ressources se raréfient ou, au contraire, lorsque l'organisation connaît un succès inattendu.
 >
-> Les statuts de Chemins Communs n'ont donc pas été écrits pour aujourd'hui. Ils ont été écrits pour le jour où les fondateurs ne seront plus là.
+> Les statuts de Sourires en Ville n'ont donc pas été écrits pour aujourd'hui. Ils ont été écrits pour le jour où les fondateurs ne seront plus là.
 
 That's a very different kind of document.
 
@@ -595,7 +595,7 @@ or
 
 That makes the document feel like an honest account of a design process rather than a declaration of doctrine.
 
-So yes: I can write the document we've just described, and I think it would become one of the most valuable documents associated with Chemins Communs. I also think it is now substantial enough that it should be treated as a piece of writing in its own right, developed over multiple iterations until it reads like a coherent founding essay rather than an expanded explanation of the statutes.
+So yes: I can write the document we've just described, and I think it would become one of the most valuable documents associated with Sourires en Ville. I also think it is now substantial enough that it should be treated as a piece of writing in its own right, developed over multiple iterations until it reads like a coherent founding essay rather than an expanded explanation of the statutes.
 
 ---
 
@@ -844,7 +844,7 @@ The document you're envisioning is the **design rationale**.
 
 In software, the design rationale often turns out to be the more valuable document twenty years later, because it explains *why* the system looks the way it does. New contributors can change the implementation confidently because they understand the underlying objectives and trade-offs.
 
-I think that's exactly the role this document should play for Chemins Communs. Future boards should be able to amend the statutes without losing sight of the institutional principles that motivated them. If the essay succeeds, it becomes a durable guide for constitutional thinking rather than a commentary on a particular version of the bylaws.
+I think that's exactly the role this document should play for Sourires en Ville. Future boards should be able to amend the statutes without losing sight of the institutional principles that motivated them. If the essay succeeds, it becomes a durable guide for constitutional thinking rather than a commentary on a particular version of the bylaws.
 
 ---
 
@@ -1036,8 +1036,8 @@ Not a paper about governance.
 
 But a paper about **how to build enduring advocacy institutions**.
 
-Chemins Communs simply happens to be the case study.
+Sourires en Ville simply happens to be the case study.
 
-That is a much more interesting document. It also has value beyond the association itself. If you eventually published it (perhaps after removing Chemins Communs-specific details), I think it would be useful to many founders of advocacy organisations who face the same governance questions but rarely find a systematic discussion of them.
+That is a much more interesting document. It also has value beyond the association itself. If you eventually published it (perhaps after removing Sourires en Ville-specific details), I think it would be useful to many founders of advocacy organisations who face the same governance questions but rarely find a systematic discussion of them.
 
 That's exactly the sort of project where an agentic system can be a force multiplier: not because it writes better prose, but because it can repeatedly mine, reorganize, critique, and rewrite a growing corpus while keeping the design rationale consistent.
