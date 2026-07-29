@@ -143,6 +143,8 @@ Vérification par requête HTTP HEAD le 2026-07-21 (pas de whois). « Pris » = 
 | Horizons | horizons.fr | Pris (200) | — | — |
 | Mouvance | mouvance.fr | Pris (200) | — | — |
 | Accès | acces.fr | Pris (301) | — | — |
+| Pieds sur Terre | piedssurterre.fr | Pris (200/301) | pieds-sur-terre.fr | Libre ? |
+| Sourires en Mouvement | souriresenmouvement.fr | Libre ? | sourires-en-mouvement.fr | Libre ? |
 
 ## Analyse des noms clairement libres (✅)
 
@@ -204,4 +206,13 @@ Les noms suivants ont été générés dans la même logique mais écartés, soi
 * **Avancer Ensemble** — avancer-ensemble.fr déjà pris (200).
 * **Ville Fluide** — villefluide.fr déjà pris (302).
 * **Instants Partagés** — les deux formes déjà prises (301 et 200).
+
+## Propositions reçues
+
+Deux noms supplémentaires ont été proposés par des membres de l'association, chacun accompagné d'un débat interne. Vérification .fr par requête HTTP HEAD le 2026-07-29.
+
+| Nom | .fr accolé | .fr avec tirets | Statut | Analyse |
+| :---- | :---- | :---- | :---- | :---- |
+| Pieds sur Terre | piedssurterre.fr — Pris (200/301) | pieds-sur-terre.fr — Libre ? | ⚠️ | L'image de « avoir les pieds sur terre » (pragmatisme, ancrage dans le réel) est un bon argument de crédibilité face à des décideurs. Mais deux problèmes se cumulent. D'abord, « pied à terre » est le nom du panneau CPT (« cycliste, pied à terre »), une signalisation controversée dans les milieux cyclistes militants car perçue comme défavorable au vélo (elle impose de descendre de selle plutôt que de faire la place). Le public le plus averti et le plus engagé de l'association — les cyclistes militants eux-mêmes — risque donc d'associer spontanément ce nom à un dispositif qu'il combat, soit l'exact inverse de l'effet recherché. Ensuite, « pied-à-terre » est aussi une expression très installée dans le vocabulaire immobilier (résidence secondaire), ce qui dilue encore la référençabilité en ligne au-delà même du problème CPT. Le nom reste défendable pour la marche à pied au sens large, mais le risque de contresens auprès du public cycliste est suffisamment sérieux pour mériter d'être testé explicitement auprès de ce public avant toute adoption. |
+| Sourires en Mouvement | souriresenmouvement.fr — Libre ? | sourires-en-mouvement.fr — Libre ? | ✅ | Se lit comme une variante directe du nom actuel de l'association (Sourires en Ville), en remplaçant « Ville » par « Mouvement ». Cela répond en partie à l'objection faite à « Ville » — perçu par certains comme trop municipal/administratif, ou excluant les communes périurbaines desservies par l'association — tout en renforçant la dimension mobilité/dynamisme, absente du nom actuel. En revanche, ce changement ne traite pas l'objection faite à « Sourires » lui-même (risque d'être perçu comme mièvre, peu sérieux face à des élus ou des techniciens, voire un peu paternaliste dans l'invitation implicite à sourire) : cette réserve est structurelle au nom actuel et n'est pas résolue en touchant seulement au second mot. Par ailleurs, « Mouvement » comporte son propre risque de connotation, par proximité avec le vocabulaire politique (« En Marche », « mouvement social »), dans le même esprit que la réserve déjà notée plus haut pour « En Chemin ». Au total : un nom qui corrige un défaut ciblé du nom actuel sans répondre à l'objection la plus profonde, et qui en introduit un nouveau. |
 
