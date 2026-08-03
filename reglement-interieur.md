@@ -1,4 +1,4 @@
-# Projet de règlement intérieur de l’association Sourires en Ville
+# Projet de règlement intérieur de l’association Pieds sur Terre
 
 ## Préambule
 

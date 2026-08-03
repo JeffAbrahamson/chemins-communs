@@ -1,4 +1,4 @@
-# Projet de statuts de l’association Sourires en Ville
+# Projet de statuts de l’association Pieds sur Terre
 
 ## Préambule
 
@@ -6,7 +6,7 @@ La marche et le vélo sont des moyens de déplacement essentiels à une sociét�
 
 Le développement des mobilités actives contribue à la préservation de l’environnement naturel et humain, à la santé publique, à la qualité de vie, à l’autonomie des personnes, à la réduction des émissions de gaz à effet de serre et à un partage plus équitable de l’espace public.
 
-Sourires en Ville est créée afin de défendre durablement les intérêts des usagers des mobilités actives, de promouvoir des politiques publiques favorables à leur développement et de contribuer, par son expertise et son action citoyenne, à la transformation des territoires.
+Pieds sur Terre est créée afin de défendre durablement les intérêts des usagers des mobilités actives, de promouvoir des politiques publiques favorables à leur développement et de contribuer, par son expertise et son action citoyenne, à la transformation des territoires.
 
 Les présents statuts organisent une gouvernance conciliant la participation des membres, l’efficacité de l’action, la continuité institutionnelle et l’indépendance. Leur préambule éclaire leur interprétation sans se substituer à leurs dispositions.
 
@@ -16,7 +16,7 @@ Les présents statuts organisent une gouvernance conciliant la participation des
 
 ## Article 1 — Constitution et dénomination
 
-Il est fondé entre les personnes physiques ou morales qui adhèrent aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, dénommée **Sourires en Ville**.
+Il est fondé entre les personnes physiques ou morales qui adhèrent aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, dénommée **Pieds sur Terre**.
 
 ## Article 2 — Durée
 
