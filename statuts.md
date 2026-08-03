@@ -207,6 +207,8 @@ L’Assemblée peut se tenir en présence, à distance ou sous une forme hybride
 
 Les votes sont exprimés par voie électronique, pendant une période qui peut commencer avant la réunion. Toutefois, une motion de procédure survenant en cours de réunion et n’exigeant pas le secret peut être mise aux voix par tout moyen fiable permettant à l’ensemble des participants, présents ou à distance, de prendre part au vote. Un dispositif d’accès est proposé pendant la réunion à toute personne qui ne dispose pas d’un équipement approprié. Tout membre disposant du droit de vote doit pouvoir voter personnellement sans être contraint de donner procuration.
 
+Chaque membre disposant du droit de vote peut donner procuration à un autre membre disposant du droit de vote.
+
 Une personne physique ne peut exprimer plus de deux voix à quelque titre que ce soit. Elle peut cumuler sa voix personnelle avec, au choix, la voix d’une personne morale qu’elle représente ou une procuration, mais ne peut cumuler ces trois qualités. Le règlement intérieur organise ces modalités, l’assistance au vote et les garanties du scrutin électronique, notamment le secret lorsqu’il est requis.
 
 ## Article 19 — Quorum et majorités
