@@ -1,4 +1,4 @@
-# Projet de règlement intérieur de l’association Pieds sur Terre
+# Projet de règlement intérieur de l’association Les Pieds sur Terre
 
 ## Préambule
 

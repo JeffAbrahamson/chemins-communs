@@ -1,6 +1,6 @@
-# Procès-verbal de l'assemblée générale constitutive de l'association Pieds sur Terre
+# Procès-verbal de l'assemblée générale constitutive de l'association Les Pieds sur Terre
 
-Le 4 août 2026, à Nantes, se sont réunis les membres fondateurs de l'association en cours de formation dénommée « Pieds sur Terre » :
+Le 4 août 2026, à Nantes, se sont réunis les membres fondateurs de l'association en cours de formation dénommée « Les Pieds sur Terre » :
 
 * Jeffrey Abrahamson
 * Pierre-Antoine Augereau
@@ -31,7 +31,7 @@ L'assemblée décide de constituer entre les personnes présentes une associatio
 
 ## Deuxième résolution — Dénomination
 
-L'assemblée décide que l'association est dénommée **Pieds sur Terre**.
+L'assemblée décide que l'association est dénommée **Les Pieds sur Terre**.
 
 *Cette résolution est adoptée à l'unanimité.*
 
