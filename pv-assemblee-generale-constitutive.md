@@ -49,9 +49,9 @@ L'assemblée adopte le règlement intérieur de l'association, dont le texte est
 
 ## Cinquième résolution — Élection des administrateurs
 
-Jeffrey Abrahamson, Pauline Martin, et Francine Fonteneau se portent candidats aux fonctions d'administrateur.
+Jeffrey Abrahamson, Pauline Martin, Francine Fonteneau, et Alexis Groussin se portent candidats aux fonctions d'administrateur.
 
-L'assemblée élit Jeffrey Abrahamson, Pauline Martin, et Francine Fonteneau en qualité d'administrateurs du Conseil d'administration.
+L'assemblée élit Jeffrey Abrahamson, Pauline Martin, Francine Fonteneau, et Alexis Groussin en qualité d'administrateurs du Conseil d'administration.
 
 *Cette résolution est adoptée à l'unanimité.*
 
