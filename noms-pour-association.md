@@ -222,5 +222,7 @@ Un second tour de vote a été ouvert le 2026-08-14, portant sur cinq noms : Nos
 
 ## Décision
 
-Après délibération, l'association a retenu **Pieds sur Terre**. Ce nom porte une image de pragmatisme et d'ancrage dans le réel, un atout de crédibilité face aux décideurs. Il comporte aussi les réserves notées plus haut : un risque de rapprochement avec le panneau CPT (« cycliste, pied à terre ») auprès du public cycliste, et une proximité avec l'expression immobilière « pied-à-terre ». Le groupe a fait ce choix en connaissance de ces deux aspects, et les assume ensemble.
+Après délibération du premier tour, l'association avait retenu **Pieds sur Terre**. Ce nom portait une image de pragmatisme et d'ancrage dans le réel, un atout de crédibilité face aux décideurs. Il comportait aussi les réserves notées plus haut : un risque de rapprochement avec le panneau CPT (« cycliste, pied à terre ») auprès du public cycliste, et une proximité avec l'expression immobilière « pied-à-terre ». Le groupe avait fait ce choix en connaissance de ces deux aspects, et les avait assumés ensemble.
+
+À l'issue du second tour, l'association a retenu **Rue Commune** (nom analysé ci-dessus sous la forme « La Rue Commune » ; l'article est abandonné pour le nom retenu, à l'image du glissement inverse déjà opéré pour « Pieds sur Terre » devenu « Les Pieds sur Terre »). Ce nom recentre le propos sur la rue comme espace partagé plutôt que sur le chemin, sans les risques de confusion homonymique ni les réserves de fond relevées pour les autres noms de ce tour.
 

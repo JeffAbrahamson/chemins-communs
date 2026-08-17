@@ -1,6 +1,6 @@
-# Procès-verbal de l'assemblée générale constitutive de l'association Les Pieds sur Terre
+# Procès-verbal de l'assemblée générale constitutive de l'association Rue Commune
 
-Le 4 août 2026, à Nantes, se sont réunis les membres fondateurs de l'association en cours de formation dénommée « Les Pieds sur Terre » :
+Le 17 août 2026, à Nantes, se sont réunis les membres fondateurs de l'association en cours de formation dénommée « Rue Commune » :
 
 * Jeffrey Abrahamson
 * Pierre-Antoine Augereau
@@ -31,7 +31,7 @@ L'assemblée décide de constituer entre les personnes présentes une associatio
 
 ## Deuxième résolution — Dénomination
 
-L'assemblée décide que l'association est dénommée **Les Pieds sur Terre**.
+L'assemblée décide que l'association est dénommée **Rue Commune**.
 
 *Cette résolution est adoptée à l'unanimité.*
 
@@ -59,7 +59,7 @@ L'assemblée élit Jeffrey Abrahamson, Pauline Martin, Francine Fonteneau, et Al
 
 L'ordre du jour étant épuisé, la séance est levée.
 
-Fait à Nantes, le 4 août 2026.
+Fait à Nantes, le 17 août 2026.
 
 **Le président de séance**
 Jeffrey Abrahamson
